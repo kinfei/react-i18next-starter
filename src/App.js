@@ -1,6 +1,8 @@
 import React, { Suspense } from "react";
 import { withTranslation } from "react-i18next";
 
+import { Button } from "antd";
+
 import constants from "./constants";
 
 import "./App.css";
@@ -10,12 +12,22 @@ function App({ t, i18n }) {
     <Suspense fallback="loading">
       <div className="App">
         <h1>{t("welcome.title", { framework: "React" })}</h1>
-        <button onClick={() => i18n.changeLanguage(constants.language.en)}>
+
+        <Button
+          type="link"
+          disabled={i18n.language === constants.language.en}
+          onClick={() => i18n.changeLanguage(constants.language.en)}
+        >
           {t("en-US")}
-        </button>
-        <button onClick={() => i18n.changeLanguage(constants.language.zh)}>
+        </Button>
+
+        <Button
+          type="link"
+          disabled={i18n.language === constants.language.zh}
+          onClick={() => i18n.changeLanguage(constants.language.zh)}
+        >
           {t("zh-CN")}
-        </button>
+        </Button>
       </div>
     </Suspense>
   );

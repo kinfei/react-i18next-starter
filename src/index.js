@@ -7,11 +7,9 @@ import App from "./App";
 import reportWebVitals from "./reportWebVitals";
 import "./index.css";
 
-console.log({ locales });
-
 ReactDOM.render(
   <React.StrictMode>
-    <I18nextProvider i18n={locales.i18next}>
+    <I18nextProvider i18n={locales}>
       <App />
     </I18nextProvider>
   </React.StrictMode>,

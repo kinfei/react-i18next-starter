@@ -1,6 +1,6 @@
 {
   "welcome": {
-    "title": "Welcome to {{framework}}"
+    "title": "Welcome to use {{framework}}"
   },
   "en-US": "English",
   "zh-CN": "Simplified Chinese"
