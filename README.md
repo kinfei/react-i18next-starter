@@ -1,4 +1,4 @@
-# react-ilnext-starter
+# react-i18next-starter
 
 Starter of using multiple languages (English / Simplified Chinese) with react-i18next.
 
@@ -7,8 +7,8 @@ Starter of using multiple languages (English / Simplified Chinese) with react-i1
 ## How to Run
 
 ```bash
-$ git https://github.com/kinfei/react-il8next-starter.git
-$ cd react-ilnext-starter
+$ git clone git@github.com:kinfei/react-i18next-starter.git
+$ cd react-i18next-starter
 $ yarn install
 $ yarn start
 ```
