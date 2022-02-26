@@ -1,0 +1,7 @@
+{
+  "welcome": {
+    "title": "欢迎来到{{framework}}"
+  },
+  "en-US": "英文",
+  "zh-CN": "简体中文"
+}

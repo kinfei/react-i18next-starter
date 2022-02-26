@@ -1,0 +1,7 @@
+{
+  "welcome": {
+    "title": "Welcome to {{framework}}"
+  },
+  "en-US": "English",
+  "zh-CN": "Simplified Chinese"
+}
