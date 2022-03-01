@@ -1,8 +1,8 @@
 {
-  "name": "react-il8next-starter",
+  "name": "react-i18next-starter",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kinfei.github.io/react-il8next-starter",
+  "homepage": "https://kinfei.github.io/react-i18next-starter",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
     "@testing-library/react": "^12.1.3",
