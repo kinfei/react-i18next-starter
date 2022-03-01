@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-il8next-starter/static/css/main.ec236bab.css",
-    "main.js": "/react-il8next-starter/static/js/main.f3612bcd.js",
-    "static/js/787.b777526a.chunk.js": "/react-il8next-starter/static/js/787.b777526a.chunk.js",
-    "index.html": "/react-il8next-starter/index.html",
-    "main.ec236bab.css.map": "/react-il8next-starter/static/css/main.ec236bab.css.map",
-    "main.f3612bcd.js.map": "/react-il8next-starter/static/js/main.f3612bcd.js.map",
-    "787.b777526a.chunk.js.map": "/react-il8next-starter/static/js/787.b777526a.chunk.js.map"
+    "main.css": "/react-i18next-starter/static/css/main.ec236bab.css",
+    "main.js": "/react-i18next-starter/static/js/main.3142d406.js",
+    "static/js/787.24354468.chunk.js": "/react-i18next-starter/static/js/787.24354468.chunk.js",
+    "index.html": "/react-i18next-starter/index.html",
+    "main.ec236bab.css.map": "/react-i18next-starter/static/css/main.ec236bab.css.map",
+    "main.3142d406.js.map": "/react-i18next-starter/static/js/main.3142d406.js.map",
+    "787.24354468.chunk.js.map": "/react-i18next-starter/static/js/787.24354468.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ec236bab.css",
-    "static/js/main.f3612bcd.js"
+    "static/js/main.3142d406.js"
   ]
 }
